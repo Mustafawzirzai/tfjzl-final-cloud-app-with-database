@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local screenshot tooling
+.capture-tools/
+.capture/
