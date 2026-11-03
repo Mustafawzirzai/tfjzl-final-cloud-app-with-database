@@ -131,3 +131,4 @@ dmypy.json
 # Local screenshot tooling
 .capture-tools/
 .capture/
+submission-artifacts/*.png
